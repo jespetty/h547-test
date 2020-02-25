@@ -1,5 +1,5 @@
 # h547-test
 This is a test for H547. 
-This is my third line. 
+## This is my third line. 
 
-## Can't wait to write in HTML!
+### Can't wait to write in HTML!
