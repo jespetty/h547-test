@@ -4,4 +4,4 @@ This is a test for H547.
 
 ### Can't wait to write in HTML!
 
-[Link!](htps://www.google.com)
+[Link to google](htps://www.google.com)
